@@ -18,6 +18,8 @@
 # Semestre sep - ene 2020
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5474868.png" width="658" height="73" alt="Ejecutando la QEMU" /></a>
+![](imagenes/pi1.png)
+![](imagenes/pi2.png)
 
 ![](imagenes/prog1.png)
 ```bash 
