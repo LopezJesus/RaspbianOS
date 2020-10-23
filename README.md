@@ -17,8 +17,7 @@
 # MC. René Solis Reyes
 # Semestre sep - ene 2020
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5474845.png" width="1438" height="164" alt="Elabora la QEMU de RaspberryPI virtual 
-y corra sus programas de CPP" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5474868.png" width="658" height="73" alt="Ejecutando la QEMU" /></a>
 
 ![](imagenes/prog1.png)
 ```bash 
