@@ -249,3 +249,6 @@ int main()
 ```
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+# Conclusión
+En esta unidad se puede concluir que el alumnado pudo identificar las soluciones distintas que existen para compilar programas que previamente fueron elaborados en el lenguaje C++, se comprendio mediane complementos teóricos sobre ARM y como funciona mediante el emulador QEMU, de Raspberry PI. Ademas de todo esto la practica ayudo al alumno logrando que este pueda comprender el Markdown, asi como el entendimiento de la herramienta GitHub, aprendiendo a crear carpetas o clonar archivos desde la terminal para su posterior utilizacion en el *nano* de Linux.
