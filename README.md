@@ -18,6 +18,7 @@
 # Semestre sep - ene 2020
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5474868.png" width="658" height="73" alt="Ejecutando la QEMU" /></a>
+
 Despues de seguir los pasos de descarga e instalacion del video subido a Classroom, se ejecuta desde el cmd el .bat para tener el kernel de linux en el QEMU
 ![](imagenes/pi1.PNG)
 A continuacion podemos observar la pantalla principal del Raspberry Pi
