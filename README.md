@@ -25,6 +25,8 @@ A continuacion podemos observar la pantalla principal del Raspberry Pi
 ![](imagenes/pi2.PNG)
 Ahora a continuacion se crea una carpeta en QEMU donde clonare el repositorio de RaspbianOS, para tener los 5 programas en la Raspberry Pi
 ![](imagenes/pi3.PNG)
+Tomaremos como ejemplo la forma mediante la cual se compila el programa 1 como estandar de los demas, en donde la sintaxis es *g++ -o nombreEjecutable Ejercicio.cpp* y para correrlo solo poner el *./ nombreEjecutable*
+![](imagenes/pi4.PNG)
 
 ![](imagenes/prog1.png)
 ```bash 
@@ -105,6 +107,7 @@ int main()
 }
 
 ```
+![](imagenes/pi5.PNG)
 
 ![](imagenes/prog2.png)
 ```bash 
@@ -134,6 +137,7 @@ int main() {
     return 0;
 }
 ```
+![](imagenes/pi6.PNG)
 
 ![](imagenes/prog3.png)
 
@@ -194,6 +198,7 @@ int main() {
 }
 
 ```
+![](imagenes/pi7.PNG)
 
 ![](imagenes/prog4.png)
 ```bash
@@ -226,6 +231,7 @@ int main()
 }
 
 ```
+![](imagenes/pi8.PNG)
 
 ![](imagenes/prog5.png)
 ```bash 
@@ -254,6 +260,7 @@ int main()
     return 0;
 }
 ```
+![](imagenes/pi9.PNG)
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
